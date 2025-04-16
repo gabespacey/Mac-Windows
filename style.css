@@ -1,0 +1,15 @@
+header {
+    color:blue;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.graybg {
+    background-color: gray;
+}
+
+#redbg {
+    background: red;
+}
